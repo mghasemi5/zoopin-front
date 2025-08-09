@@ -1,0 +1,61 @@
+/* Always fixed at top */
+.header {
+  position: fixed;
+  top: 0; left: 0; right: 0;
+  z-index: 1000;
+  transition: background 0.3s ease, box-shadow 0.3s ease;
+  background: transparent;
+}
+
+/* When scrolled (or on non-home), we darken */
+.header--solid {
+  background: #1c2a49;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+/* Inner container to constrain width & align */
+.header__inner {
+  max-width: 1200px;
+  margin: auto;
+  padding: 1rem 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;  /* vertical centering */
+}
+
+/* Logo styling */
+.logo a {
+  color: white;
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+/* Nav links */
+.nav {
+  display: flex;
+  gap: 2rem;
+}
+.nav a {
+  color: white;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 1rem;
+  transition: color 0.2s;
+}
+.nav a:hover {
+  color: #e5e4e2;
+}
+
+/* Optional: reduce header padding on mobile */
+@media (max-width: 768px) {
+  .header__inner {
+    padding: 0.75rem 1rem;
+  }
+  .nav {
+    gap: 1rem;
+  }
+  .logo a {
+    font-size: 1.25rem;
+  }
+}

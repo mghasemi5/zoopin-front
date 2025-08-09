@@ -1,0 +1,58 @@
+.info-blocks {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  background: url('../assets/images/section-bg.jpg') no-repeat center center / cover;
+  padding: 5rem 2rem;
+  gap: 2rem;
+  position: relative;
+}
+
+
+.info-card {
+  background-color: #e5e4e2; /* Your light gray */
+  border-radius: 16px;
+  padding: 3rem 2rem;
+  width: 360px;
+  height: 380px;
+  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.15);
+  text-align: left;
+  transition: transform 0.3s ease;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.info-card:hover {
+  transform: translateY(-10px);
+}
+
+.info-card .icon {
+  font-size: 3rem;
+  margin-bottom: 1.5rem;
+  color: #1c2a49; /* Dark blue for icons */
+}
+
+.info-card h3 {
+  font-size: 1.8rem;
+  margin-bottom: 1rem;
+  color: #1c2a49;
+}
+
+.info-card p {
+  color: #333;
+  font-size: 1.05rem;
+  line-height: 1.7;
+}
+.info-card img {
+  width: 58px;
+  height: 58px;
+  margin-bottom: 1rem;
+}
+
+@media (max-width: 1100px) {
+  .info-card {
+    width: 90%;
+    height: auto;
+  }
+}

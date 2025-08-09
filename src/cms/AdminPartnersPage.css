@@ -1,0 +1,61 @@
+.admin-page {
+  padding: 40px;
+  background: #f4f4f4;
+  min-height: 100vh;
+  font-family: Arial, sans-serif;
+}
+
+.partner-form {
+  display: grid;
+  gap: 10px;
+  max-width: 600px;
+  margin-bottom: 40px;
+}
+
+.partner-form input,
+.partner-form textarea {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+.partner-form button {
+  padding: 12px;
+  background-color: #1c2a49;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.partner-form button:hover {
+  background-color: #16203a;
+}
+
+.partner-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 20px;
+}
+
+.partner-item {
+  background: white;
+  padding: 16px;
+  border-radius: 10px;
+  box-shadow: 0 0 8px rgba(0,0,0,0.1);
+  display: flex;
+  gap: 12px;
+  align-items: center;
+}
+
+.partner-item img {
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+  border-radius: 6px;
+}
+
+.partner-item button {
+  margin-right: 8px;
+  margin-top: 6px;
+}

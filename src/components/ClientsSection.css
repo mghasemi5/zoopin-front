@@ -1,0 +1,54 @@
+.clients-section {
+  background-color: #e5e4e2;
+  padding: 80px 20px;
+  text-align: center;
+}
+
+.clients-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 60px;
+}
+
+.client-logo-box {
+  position: relative;
+  display: inline-block;
+  padding: 10px;
+  transition: transform 0.3s ease;
+}
+
+.client-logo-box img {
+  max-width: 100px;
+  height: auto;
+  filter: grayscale(100%);
+  transition: filter 0.3s ease, transform 0.3s ease;
+}
+
+.client-logo-box:hover img {
+  filter: grayscale(0%);
+  transform: scale(1.05);
+}
+
+.tooltip {
+  display: none;
+  position: absolute;
+  top: -130%;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: white;
+  color: #1c2a49;
+  font-size: 14px;
+  padding: 15px;
+  max-width: 200px;
+  border-radius: 6px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+  z-index: 10;
+  white-space: normal;
+  text-align: left;
+}
+
+
+.client-logo-box:hover .tooltip {
+  display: block;
+}
