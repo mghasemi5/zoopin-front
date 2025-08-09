@@ -6,7 +6,7 @@ import 'swiper/css';
 import 'swiper/css/navigation';
 import 'swiper/css/pagination';
 import './PartnersSection.css';
-import { API_BASE } from './config';
+import { API_BASE } from '../config';
 
 
 // Change this later to an env var if you want:

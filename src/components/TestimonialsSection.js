@@ -5,7 +5,7 @@ import 'swiper/css';
 import 'swiper/css/pagination';
 import 'swiper/css/effect-fade';
 import './TestimonialsSection.css';
-import { API_BASE } from './config';
+import { API_BASE } from '../config';
 
 
 

@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
 import './PartnerDetailPage.css';
-import { API_BASE } from './config';
+import { API_BASE } from '../config';
 
 
 function PartnerDetailPage() {

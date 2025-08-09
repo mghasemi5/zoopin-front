@@ -3,7 +3,7 @@ import Header from '../components/Header';
 import Footer from '../components/Footer';
 import './PartnersPage.css';
 import { Link } from 'react-router-dom';
-import { API_BASE } from './config';
+import { API_BASE } from '../config';
 
 const PartnersPage = () => {
   const [partners, setPartners] = useState([]);

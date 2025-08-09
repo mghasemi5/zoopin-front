@@ -4,7 +4,7 @@ import { Navigation, Autoplay } from 'swiper/modules';
 import 'swiper/css';
 import 'swiper/css/navigation';
 import './Slider.css';
-import { API_BASE } from './config';
+import { API_BASE } from '../config';
 
 
 
@@ -41,7 +41,7 @@ function Slider() {
       <div className="slider-container">
         <div className="slide loading">
           <div className="hero-overlay">
-            <h1 className="hero-headline">Loading…</h1>
+            <h1 className="hero-headline">Loadingï¿½</h1>
           </div>
         </div>
       </div>

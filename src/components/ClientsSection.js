@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import "./ClientsSection.css";
-import { API_BASE } from './config';
+import { API_BASE } from '../config';
 
 const ClientsSection = () => {
   const [clients, setClients] = useState([]);

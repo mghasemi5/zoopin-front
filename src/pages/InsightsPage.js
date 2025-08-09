@@ -2,7 +2,7 @@
 import React, { useEffect, useMemo, useState } from 'react';
 import './InsightsPage.css';
 
-import { API_BASE } from './config';
+import { API_BASE } from '../config';
 
 
 
