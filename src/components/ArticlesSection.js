@@ -9,7 +9,7 @@ export default function ArticlesSection() {
   const [error, setError]       = useState(null);
 
   useEffect(() => {
-    fetch(`${API_BASE}api/insights/`)
+    fetch(`${API_BASE}/api/insights/`)
       .then(res => {
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
         return res.json();

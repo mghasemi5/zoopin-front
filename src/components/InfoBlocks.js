@@ -7,7 +7,7 @@ const InfoBlocks = () => {
   const [blocks, setBlocks] = useState([]);
 
   useEffect(() => {
-    fetch(`${API_BASE}api/info-blocks/`)
+    fetch(`${API_BASE}/api/info-blocks/`)
       .then(res => res.json())
       .then(data => setBlocks(data))
       .catch(err => console.error('Error loading InfoBlocks:', err));
