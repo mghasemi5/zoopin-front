@@ -1,3 +1,3 @@
-// src/config.js
-export const API_BASE = "http://127.0.0.1:8000"
-  //import.meta.env.VITE_API_BASE || (window.location.origin + "/api");
+// src/config.js (CRA)
+export const API_BASE =
+  (process.env.REACT_APP_API_BASE || (window.location.origin ));
