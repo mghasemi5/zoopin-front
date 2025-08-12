@@ -47,7 +47,7 @@ const PartnersSection = () => {
     <section className="partners-section">
       <div className="partners-container">
         <h2 className="section-title">Our Partners</h2>
-        <p className="section-sub">Brands we build with — modern, scalable, and obsessed with quality.</p>
+        <p className="section-sub">Brands we build with modern, scalable, and obsessed with quality.</p>
 
         <Swiper
           modules={[Navigation, Pagination, Autoplay, A11y]}
