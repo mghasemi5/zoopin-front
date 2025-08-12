@@ -86,7 +86,7 @@ const PartnersSection = () => {
                   />
 
                   <div className="partner-overlay">
-                    <h3 className="partner-name">{partner.name}</h3>
+                    <div className="partner-name">{partner.name}</div>
                     {partner.tagline ? (
                       <p className="partner-tag">{partner.tagline}</p>
                     ) : null}
