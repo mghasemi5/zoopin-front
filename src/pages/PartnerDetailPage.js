@@ -50,8 +50,6 @@ function PartnerDetailPage() {
           <div className="contact-info">
             <h2>Contact Info</h2>
             <p><strong>Email:</strong> {partner.email}</p>
-            <p><strong>Website:</strong> <a href={partner.website} target="_blank" rel="noopener noreferrer">{partner.website}</a></p>
-            {partner.phone && <p><strong>Phone:</strong> {partner.phone}</p>}
           </div>
         </div>
       </div>

@@ -13,6 +13,8 @@ import PartnersPage from './pages/PartnersPage';
 import PartnerDetailPage from './pages/PartnerDetailPage';
 import AdminPartnersPage from './cms/AdminPartnersPage';
 import InsightsPage from './pages/InsightsPage';
+import AboutPage from './pages/AboutPage';
+import ServicesPage from './pages/ServicesPage';
 
 function App() {
   const [isOnHero, setIsOnHero] = useState(true);
@@ -51,6 +53,9 @@ function App() {
         <Route path="/partners/:slug" element={<PartnerDetailPage />} />
         <Route path="/admin/partners" element={<AdminPartnersPage />} />
         <Route path="/insights" element={<InsightsPage />} />
+        <Route path="/about" element={<AboutPage />} />
+        <Route path="/services" element={<ServicesPage />} />
+
       </Routes>
 
       <Footer />

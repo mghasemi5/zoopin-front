@@ -8,7 +8,7 @@ export default function Footer() {
         {/* Logo & Tagline */}
         <div className="footer__col footer__col--brand">
           <img
-            src="/assets/images/logo-white.png"
+            src="/assets/images/logo.png"
             alt="Jump Associates Logo"
             className="footer__logo"
           />
@@ -22,28 +22,19 @@ export default function Footer() {
           <h4>Company</h4>
           <ul>
             <li><a href="/about">About</a></li>
-            <li><a href="/careers">Careers</a></li>
-            <li><a href="/contact">Contact</a></li>
-            <li><a href="/press">Press</a></li>
+            <li><a href="/careers">services</a></li>
+            <li><a href="/about">Contact</a></li>
           </ul>
         </div>
 
-        <div className="footer__col">
-          <h4>Services</h4>
-          <ul>
-            <li><a href="/services/strategy">Strategy</a></li>
-            <li><a href="/services/culture">Culture</a></li>
-            <li><a href="/services/leadership">Leadership</a></li>
-            <li><a href="/services/innovation">Innovation</a></li>
-          </ul>
-        </div>
 
         <div className="footer__col">
           <h4>Connect</h4>
           <ul>
-            <li><a href="mailto:inquiries@jumpassociates.com">inquiries@jumpassociates.com</a></li>
-            <li><a href="tel:+1234567890">+1 (234) 567-890</a></li>
-            <li>1234 Innovation Drive<br/>San Francisco, CA</li>
+            <li><a href="mailto:inquiries@jumpassociates.com">contact@zoopin.co</a></li>
+            <li><a href="tel:+989354384910">+98 935 438 4910</a></li>
+            <li><a href="tel:+989021205666">+98 902 120 5666</a></li>
+            
           </ul>
         </div>
       </div>

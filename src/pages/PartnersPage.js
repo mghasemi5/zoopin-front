@@ -73,7 +73,7 @@ const PartnersPage = () => {
 
 
       </div>
-      <Footer />
+ 
     </>
   );
 };

@@ -47,7 +47,7 @@ export default function ArticlesSection() {
     <section className="articles-section">
       <h2 className="section-title">Featured Insights</h2>
       <div className="articles-grid">
-        {articles.map(a => {
+        {articles.slice(-4).map(a => {
           const imgSrc = a.image?.startsWith('http')
             ? a.image
             : `http://127.0.0.1:8000${a.image || ''}`;

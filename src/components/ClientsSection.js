@@ -14,6 +14,7 @@ const ClientsSection = () => {
 
   return (
     <section className="clients-section">
+
       <div className="clients-container">
         {clients.map((client, index) => (
           <div className="client-logo-box" key={index}>
@@ -25,9 +26,7 @@ const ClientsSection = () => {
               }
               alt={client.description || "Client Logo"}
             />
-            {client.description && (
-              <div className="tooltip">{client.description}</div>
-            )}
+            
           </div>
         ))}
       </div>

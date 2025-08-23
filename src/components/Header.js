@@ -22,11 +22,14 @@ export default function Header() {
   return (
     <header className={`header${solid ? ' header--solid' : ''}`}>
       <div className="header__inner">
-        <div className="logo">
-          <Link to="/">Zoopin</Link>
-        </div>
+<div class="logo">
+  <a href="/">
+    <img src="/logo.png" alt="Zoopin Logo" />
+    
+  </a>
+</div>
         <nav className="nav">
-          <Link to="/">About</Link>
+          <Link to="/about">About</Link>
           <Link to="/services">Services</Link>
           <Link to="/insights">Insights</Link>
           <Link to="/partners">Partners</Link>

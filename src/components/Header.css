@@ -25,11 +25,22 @@
 
 /* Logo styling */
 .logo a {
-  color: white;
-  font-size: 1.5rem;
+  display: flex;               /* so image + text align */
+  align-items: center;
+  gap: 0rem;                 /* space between image and text */
+  color: #e5e4e2;
+  font-size: 2rem;
   font-weight: bold;
   text-decoration: none;
+  
 }
+
+.logo a img {
+  height: 40px;                /* adjust size to fit your header */
+  width: auto;
+  display: block;
+}
+
 
 /* Nav links */
 .nav {
