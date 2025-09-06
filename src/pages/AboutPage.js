@@ -135,7 +135,7 @@ function AboutPage() {
               )}
               {about.contact.website && (
                 <p>
-                  <strong>Website:</strong>{" "}
+                  <strong>وب سایت: </strong>{" "}
                   <a
                     href={about.contact.website}
                     target="_blank"
