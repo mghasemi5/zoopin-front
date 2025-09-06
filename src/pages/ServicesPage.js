@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+﻿import React, { useEffect, useState } from "react";
 import "./ServicesPage.css"; // uses your tokens/styles below
 import { API_BASE as API_BASE_FROM_CONFIG } from "../config";
 
@@ -49,7 +49,7 @@ export default function ServicesPage() {
   return (
     <div className="about-page">
       <div className="about-card services-wrap">
-        <h1>Our services</h1>
+        <h1>      ‌‌‌خدمات ما</h1>
         <div className="services-grid">
           {items.map((s) => {
             const href = `/services/${s.slug}`;

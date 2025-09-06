@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+﻿import React, { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
 import './PartnerDetailPage.css';
 import { API_BASE } from '../config';
@@ -48,7 +48,7 @@ function PartnerDetailPage() {
           <p className="tagline">{partner.tagline}</p>
           <p className="bio">{partner.bio}</p>
           <div className="contact-info">
-            <h2>Contact Info</h2>
+            <h2>اطلاعات تماس</h2>
             <p><strong>Email:</strong> {partner.email}</p>
           </div>
         </div>

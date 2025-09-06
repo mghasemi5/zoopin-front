@@ -12,6 +12,12 @@
   --shadow-hover: 0 20px 60px rgba(2, 6, 23, 0.18);
 }
 
+body {
+  direction: rtl;
+  text-align: right;
+  font-family: Vazir, Tahoma, Arial, sans-serif;
+}
+
 /* =============== PAGE CHROME =============== */
 .about-page {
   min-height: 100vh;
@@ -20,7 +26,7 @@
     radial-gradient(1200px 800px at 8% 110%, rgba(28,42,73,0.08), transparent 60%),
     radial-gradient(1200px 800px at 92% -10%, rgba(28,42,73,0.06), transparent 60%),
     linear-gradient(180deg, var(--bg-grad-1), var(--bg-grad-2));
-  font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Inter, "Helvetica Neue", Arial, "Noto Sans", "Apple Color Emoji", "Segoe UI Emoji";
+  font-family: inherit;
   color: var(--ink);
   line-height: 1.6;
 }
@@ -67,7 +73,7 @@
 .about-info h1 {
   font-size: clamp(1.8rem, 3.2vw, 2.6rem);
   line-height: 1.15;
-  font-weight: 800;
+  font-weight: 400;
   letter-spacing: -.02em;
   margin: 0 0 .6rem 0;
   color: var(--ink);
@@ -79,7 +85,7 @@
   letter-spacing: .02em;
   font-size: clamp(.95rem, 1.05vw, 1.05rem);
   color: var(--muted);
-  font-style: italic;
+  
   margin-bottom: clamp(.75rem, 1vw, 1rem);
 }
 
@@ -98,18 +104,19 @@
 /* =============== HIGHLIGHTS GRID (fills row) =============== */
 .about-highlights {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(0, 1fr));
   gap: clamp(.8rem, 1.6vw, 1rem);
   margin-top: 1rem;
-
-  /* make children equal height across the row */
   align-items: stretch;
+
+  width: 100%;       /* full width */
 }
+
 
 .highlight-card {
   display: flex;
   flex-direction: column;
-  justify-content: center;   /* center content vertically when short */
+  justify-content: center;
   height: 100%;
   background: rgba(255,255,255,0.9);
   border: 1px solid var(--border);
@@ -117,9 +124,7 @@
   padding: clamp(1rem, 1.6vw, 1.2rem);
   box-shadow: 0 10px 26px rgba(2,6,23,0.07);
   transition: transform .22s ease, box-shadow .22s ease, border-color .22s ease;
-}
-.highlight-card {
-  min-height: 160px; /* adjust as you like */
+  min-height: 160px;
 }
 
 .highlight-card:hover {
@@ -128,9 +133,10 @@
   border-color: rgba(28,42,73,0.18);
 }
 
+
 .highlight-card h3 {
   font-size: clamp(1.05rem, 1.2vw, 1.2rem);
-  font-weight: 700;
+  font-weight: 400;
   margin: 0 0 .5rem 0;
   color: #1f2937;
 }
@@ -159,7 +165,7 @@
 
 .contact-card h2 {
   font-size: clamp(1.3rem, 2.2vw, 1.6rem);
-  font-weight: 800;
+  font-weight: 400;
   letter-spacing: -.01em;
   margin: 0 0 .9rem 0;
   color: var(--ink);
@@ -254,7 +260,7 @@ a:hover { filter: brightness(.92); }
     padding: clamp(1.5rem, 3vw, 2.25rem);
   }
   .about-hero { margin: 0; }
-  .about-highlights { grid-template-columns: repeat(3, 1fr); }
+  .about-highlights {grid-template-columns: repeat(auto-fit, minmax(0, 1fr)); }
   .contact-grid { grid-template-columns: 1.1fr 1fr; align-items: start; }
 }
 @media (min-width: 1100px) {

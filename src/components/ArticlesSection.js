@@ -28,7 +28,7 @@ export default function ArticlesSection() {
   if (loading) {
     return (
       <section className="articles-section">
-        <h2 className="section-title">Featured Insights</h2>
+        <h2 className="section-title">مقالات اختصاصی</h2>
         <p>Loading…</p>
       </section>
     );
@@ -45,7 +45,7 @@ export default function ArticlesSection() {
 
   return (
     <section className="articles-section">
-      <h2 className="section-title">Featured Insights</h2>
+      <h2 className="section-title">مقالات اختصاصی</h2>
       <div className="articles-grid">
         {articles.slice(-4).map(a => {
           const imgSrc = a.image?.startsWith('http')
@@ -71,7 +71,7 @@ export default function ArticlesSection() {
                 <div className="article-footer">
                   {a.category && <span className="article-category">{a.category}</span>}
                   <a href={readMoreHref} className="read-more" target="_blank" rel="noopener noreferrer">
-                    download
+                    دانلود
                   </a>
                 </div>
               </div>
@@ -80,7 +80,7 @@ export default function ArticlesSection() {
         })}
       </div>
       <a href="/insights" className="view-all-articles">
-        View All Insights
+        مشاهده تمام مقالات
       </a>
     </section>
   );

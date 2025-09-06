@@ -8,6 +8,12 @@
   --ring: #1c2a49;
 }
 
+
+html, body {
+  direction: rtl;
+  text-align: right;
+}
+
 @media (prefers-color-scheme: light){
   :root{
     --bg: #f8fafc;

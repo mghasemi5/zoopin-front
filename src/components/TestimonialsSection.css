@@ -3,6 +3,8 @@
   background: url('../assets/images/testimonials/bg-sky.jpg') no-repeat center/cover;
   padding: 80px 20px;
   color: #1c2a49;
+  direction: rtl;          /* RTL for Persian */
+  text-align: right;       /* Base alignment */
 }
 
 .testimonials-swiper {
@@ -11,7 +13,7 @@
 }
 
 .testimonial-slide {
-  text-align: left;
+  text-align: right;       /* was left */
   max-width: 800px;
   margin: 0 auto;
 }
@@ -25,8 +27,9 @@
 
 .author {
   display: flex;
-  align-items: center;
+  align-items: right;
   gap: 1rem;
+  flex-direction: row-reverse;  /* avatar on the right, info on the left */
 }
 
 .avatar {
@@ -40,12 +43,13 @@
 .author-info {
   display: flex;
   flex-direction: column;
+  text-align: right;      /* keep info aligned RTL */
 }
 
 .name {
   font-weight: bold;
   font-size: 1.1rem;
-  color: #e5e4e2
+  color: #e5e4e2;
 }
 
 .title,

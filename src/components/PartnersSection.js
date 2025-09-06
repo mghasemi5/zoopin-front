@@ -46,8 +46,8 @@ const PartnersSection = () => {
   return (
     <section className="partners-section">
       <div className="partners-container">
-        <h2 className="section-title">Our Partners</h2>
-        <p className="section-sub">Brands we build with modern, scalable, and obsessed with quality.</p>
+        <h2 className="section-title">شرکای ما</h2>
+      
 
         <Swiper
           modules={[Navigation, Pagination, Autoplay, A11y]}
@@ -101,7 +101,7 @@ const PartnersSection = () => {
 
         <div className="view-all-wrap">
           <a className="view-all-button" href="/partners" aria-label="View all partners">
-            View All Partners →
+            دیدن همه
           </a>
         </div>
       </div>

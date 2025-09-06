@@ -8,7 +8,7 @@ export default function Header() {
 
   const [scrolled, setScrolled] = useState(false);
   useEffect(() => {
-    if (!isHome) return;                   // only listen on home
+    if (!isHome) return;
     const onScroll = () => {
       setScrolled(window.scrollY > window.innerHeight * 0.8);
     };
@@ -16,23 +16,22 @@ export default function Header() {
     return () => window.removeEventListener('scroll', onScroll);
   }, [isHome]);
 
-  // if we’re not on the home page, always show solid.
   const solid = !isHome || scrolled;
 
   return (
     <header className={`header${solid ? ' header--solid' : ''}`}>
       <div className="header__inner">
-<div class="logo">
-  <a href="/">
-    <img src="/logo.png" alt="Zoopin Logo" />
-    
-  </a>
-</div>
+        <div className="logo">
+          <a href="/">
+            <img src="/logo.png" alt="لوگوی زوپین" />
+         
+          </a>
+        </div>
         <nav className="nav">
-          <Link to="/about">About</Link>
-          <Link to="/services">Services</Link>
-          <Link to="/insights">Insights</Link>
-          <Link to="/partners">Partners</Link>
+          <Link to="/about">درباره ما</Link>
+          <Link to="/services">خدمات</Link>
+          <Link to="/insights">مقالات</Link>
+          <Link to="/partners">شرکا</Link>
         </nav>
       </div>
     </header>

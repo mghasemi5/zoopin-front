@@ -119,7 +119,7 @@ function AboutPage() {
             <div className="contact-left">
               {about.contact.email && (
                 <p>
-                  <strong>Email:</strong>{" "}
+                  <strong>ایمیل: </strong>{" "}
                   <a href={`mailto:${about.contact.email}`}>
                     {about.contact.email}
                   </a>
@@ -127,7 +127,7 @@ function AboutPage() {
               )}
               {about.contact.phone && (
                 <p>
-                  <strong>Phone:</strong>{" "}
+                  <strong>تلفن: </strong>{" "}
                   <a href={`tel:${about.contact.phone}`}>
                     {about.contact.phone}
                   </a>
@@ -145,19 +145,7 @@ function AboutPage() {
                   </a>
                 </p>
               )}
-              {Array.isArray(about.contact.address_lines) &&
-                about.contact.address_lines.length > 0 && (
-                  <p>
-                    <strong>Address:</strong>
-                    <br />
-                    {about.contact.address_lines.map((line, i) => (
-                      <span key={i}>
-                        {line}
-                        <br />
-                      </span>
-                    ))}
-                  </p>
-                )}
+       
               {Array.isArray(about.contact.social_links) &&
                 about.contact.social_links.length > 0 && (
                   <div className="socials">

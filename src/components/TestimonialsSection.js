@@ -83,15 +83,7 @@ export default function TestimonialsSection() {
           <SwiperSlide key={i}>
             <div className="testimonial-slide">
               <p className="quote">{t.quote}</p>
-              <div className="author">
-                {t.avatar && <img className="avatar" src={t.avatar} alt={t.name} />}
-                <div className="author-info">
-                  <span className="name">{t.name}</span>
-                  <span className="title">
-                    {t.title}{t.company ? `, ${t.company}` : ''}
-                  </span>
-                </div>
-              </div>
+           
             </div>
           </SwiperSlide>
         ))}

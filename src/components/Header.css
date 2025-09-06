@@ -5,6 +5,10 @@
   z-index: 1000;
   transition: background 0.3s ease, box-shadow 0.3s ease;
   background: transparent;
+
+  font-family: Vazir, Tahoma, Arial, sans-serif;
+  direction: rtl;       /* RTL layout */
+  text-align: right;
 }
 
 /* When scrolled (or on non-home), we darken */
@@ -21,26 +25,25 @@
   display: flex;
   justify-content: space-between;
   align-items: center;  /* vertical centering */
+  flex-direction: row-reverse;  /* logo on right, nav on left */
 }
 
 /* Logo styling */
 .logo a {
-  display: flex;               /* so image + text align */
+  display: flex;
   align-items: center;
-  gap: 0rem;                 /* space between image and text */
+  gap: 0.5rem;
   color: #e5e4e2;
-  font-size: 2rem;
+  font-size: 1.5rem;
   font-weight: bold;
   text-decoration: none;
-  
 }
 
 .logo a img {
-  height: 40px;                /* adjust size to fit your header */
+  height: 30px;
   width: auto;
   display: block;
 }
-
 
 /* Nav links */
 .nav {

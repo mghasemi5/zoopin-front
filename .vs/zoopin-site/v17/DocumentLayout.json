@@ -1,50 +1,62 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\zoopin web\\zoopin-site\\",
+  "WorkspaceRootPath": "C:\\zoopin web - p\\zoopin-site\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\zoopin web\\zoopin-site\\src\\components\\Header.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Header.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\zoopin web\\zoopin-site\\src\\components\\Header.css||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Header.css||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\zoopin web\\zoopin-site\\src\\components\\Footer.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Footer.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\zoopin web\\zoopin-site\\src\\components\\Hero.css||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Hero.css||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\zoopin web\\zoopin-site\\src\\pages\\ServicesPage.css||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\zoopin web - p\\zoopin-site\\src\\pages\\ServicesPage.css||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\ServicesPage.css||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\zoopin web\\zoopin-site\\src\\pages\\ServicesPage.js||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\ServicesPage.js||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\zoopin web - p\\zoopin-site\\src\\pages\\ServicesPage.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\ServicesPage.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\zoopin web\\zoopin-site\\src\\App.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\zoopin web - p\\zoopin-site\\src\\components\\Footer.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Footer.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\zoopin web\\zoopin-site\\src\\pages\\AboutPage.css||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\zoopin web - p\\zoopin-site\\src\\components\\ArticlesSection.css||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ArticlesSection.css||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\zoopin web - p\\zoopin-site\\src\\components\\ArticlesSection.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ArticlesSection.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\zoopin web - p\\zoopin-site\\src\\components\\Slider.css||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Slider.css||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\zoopin web - p\\zoopin-site\\src\\pages\\InsightsPage.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\InsightsPage.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\zoopin web - p\\zoopin-site\\src\\pages\\InsightsPage.css||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\InsightsPage.css||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\zoopin web - p\\zoopin-site\\src\\pages\\AboutPage.css||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\AboutPage.css||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\zoopin web\\zoopin-site\\src\\pages\\AboutPage.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\zoopin web - p\\zoopin-site\\src\\pages\\AboutPage.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\AboutPage.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\zoopin web\\zoopin-site\\src\\pages\\HomePage.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\HomePage.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\zoopin web - p\\zoopin-site\\public\\index.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\index.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\zoopin web\\zoopin-site\\src\\components\\ArticlesSection.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ArticlesSection.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\zoopin web - p\\zoopin-site\\src\\components\\Footer.css||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Footer.css||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\zoopin web - p\\zoopin-site\\src\\components\\TestimonialsSection.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\TestimonialsSection.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\zoopin web - p\\zoopin-site\\src\\components\\TestimonialsSection.css||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\TestimonialsSection.css||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,150 +66,176 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Header.css",
-              "DocumentMoniker": "C:\\zoopin web\\zoopin-site\\src\\components\\Header.css",
-              "RelativeDocumentMoniker": "src\\components\\Header.css",
-              "ToolTip": "C:\\zoopin web\\zoopin-site\\src\\components\\Header.css",
-              "RelativeToolTip": "src\\components\\Header.css",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACgAAAARAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "ArticlesSection.css",
+              "DocumentMoniker": "C:\\zoopin web - p\\zoopin-site\\src\\components\\ArticlesSection.css",
+              "RelativeDocumentMoniker": "src\\components\\ArticlesSection.css",
+              "ToolTip": "C:\\zoopin web - p\\zoopin-site\\src\\components\\ArticlesSection.css",
+              "RelativeToolTip": "src\\components\\ArticlesSection.css",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAF8AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-08-22T13:26:13.808Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-04T13:27:39.351Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Footer.js",
-              "DocumentMoniker": "C:\\zoopin web\\zoopin-site\\src\\components\\Footer.js",
-              "RelativeDocumentMoniker": "src\\components\\Footer.js",
-              "ToolTip": "C:\\zoopin web\\zoopin-site\\src\\components\\Footer.js",
-              "RelativeToolTip": "src\\components\\Footer.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "ArticlesSection.js",
+              "DocumentMoniker": "C:\\zoopin web - p\\zoopin-site\\src\\components\\ArticlesSection.js",
+              "RelativeDocumentMoniker": "src\\components\\ArticlesSection.js",
+              "ToolTip": "C:\\zoopin web - p\\zoopin-site\\src\\components\\ArticlesSection.js",
+              "RelativeToolTip": "src\\components\\ArticlesSection.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-08-22T13:18:39.895Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-04T13:27:38.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Slider.css",
+              "DocumentMoniker": "C:\\zoopin web - p\\zoopin-site\\src\\components\\Slider.css",
+              "RelativeDocumentMoniker": "src\\components\\Slider.css",
+              "ToolTip": "C:\\zoopin web - p\\zoopin-site\\src\\components\\Slider.css",
+              "RelativeToolTip": "src\\components\\Slider.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-04T13:05:40.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServicesPage.js",
+              "DocumentMoniker": "C:\\zoopin web - p\\zoopin-site\\src\\pages\\ServicesPage.js",
+              "RelativeDocumentMoniker": "src\\pages\\ServicesPage.js",
+              "ToolTip": "C:\\zoopin web - p\\zoopin-site\\src\\pages\\ServicesPage.js",
+              "RelativeToolTip": "src\\pages\\ServicesPage.js",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-09-04T13:00:42.459Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Header.js",
-              "DocumentMoniker": "C:\\zoopin web\\zoopin-site\\src\\components\\Header.js",
-              "RelativeDocumentMoniker": "src\\components\\Header.js",
-              "ToolTip": "C:\\zoopin web\\zoopin-site\\src\\components\\Header.js",
-              "RelativeToolTip": "src\\components\\Header.js",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-08-22T13:15:21.401Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Hero.css",
-              "DocumentMoniker": "C:\\zoopin web\\zoopin-site\\src\\components\\Hero.css",
-              "RelativeDocumentMoniker": "src\\components\\Hero.css",
-              "ToolTip": "C:\\zoopin web\\zoopin-site\\src\\components\\Hero.css",
-              "RelativeToolTip": "src\\components\\Hero.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "ServicesPage.css",
+              "DocumentMoniker": "C:\\zoopin web - p\\zoopin-site\\src\\pages\\ServicesPage.css",
+              "RelativeDocumentMoniker": "src\\pages\\ServicesPage.css",
+              "ToolTip": "C:\\zoopin web - p\\zoopin-site\\src\\pages\\ServicesPage.css",
+              "RelativeToolTip": "src\\pages\\ServicesPage.css",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-08-22T13:15:20.199Z",
+              "WhenOpened": "2025-09-04T13:00:41.385Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "App.js",
-              "DocumentMoniker": "C:\\zoopin web\\zoopin-site\\src\\App.js",
-              "RelativeDocumentMoniker": "src\\App.js",
-              "ToolTip": "C:\\zoopin web\\zoopin-site\\src\\App.js",
-              "RelativeToolTip": "src\\App.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAvAAAAAAAAAA==",
+              "Title": "InsightsPage.js",
+              "DocumentMoniker": "C:\\zoopin web - p\\zoopin-site\\src\\pages\\InsightsPage.js",
+              "RelativeDocumentMoniker": "src\\pages\\InsightsPage.js",
+              "ToolTip": "C:\\zoopin web - p\\zoopin-site\\src\\pages\\InsightsPage.js",
+              "RelativeToolTip": "src\\pages\\InsightsPage.js",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACwAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-08-22T12:36:36.814Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ServicesPage.css",
-              "DocumentMoniker": "C:\\zoopin web\\zoopin-site\\src\\pages\\ServicesPage.css",
-              "RelativeDocumentMoniker": "src\\pages\\ServicesPage.css",
-              "ToolTip": "C:\\zoopin web\\zoopin-site\\src\\pages\\ServicesPage.css",
-              "RelativeToolTip": "src\\pages\\ServicesPage.css",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAcwF4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-08-22T12:22:02.076Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ServicesPage.js",
-              "DocumentMoniker": "C:\\zoopin web\\zoopin-site\\src\\pages\\ServicesPage.js",
-              "RelativeDocumentMoniker": "src\\pages\\ServicesPage.js",
-              "ToolTip": "C:\\zoopin web\\zoopin-site\\src\\pages\\ServicesPage.js",
-              "RelativeToolTip": "src\\pages\\ServicesPage.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-08-22T12:21:25.974Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-04T12:54:10.513Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "AboutPage.css",
-              "DocumentMoniker": "C:\\zoopin web\\zoopin-site\\src\\pages\\AboutPage.css",
-              "RelativeDocumentMoniker": "src\\pages\\AboutPage.css",
-              "ToolTip": "C:\\zoopin web\\zoopin-site\\src\\pages\\AboutPage.css",
-              "RelativeToolTip": "src\\pages\\AboutPage.css",
-              "ViewState": "AgIAAO8AAAAAAAAAAAAcwAgBAAAAAAAAAAAAAA==",
+              "Title": "InsightsPage.css",
+              "DocumentMoniker": "C:\\zoopin web - p\\zoopin-site\\src\\pages\\InsightsPage.css",
+              "RelativeDocumentMoniker": "src\\pages\\InsightsPage.css",
+              "ToolTip": "C:\\zoopin web - p\\zoopin-site\\src\\pages\\InsightsPage.css",
+              "RelativeToolTip": "src\\pages\\InsightsPage.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-08-22T12:19:16.371Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AboutPage.js",
-              "DocumentMoniker": "C:\\zoopin web\\zoopin-site\\src\\pages\\AboutPage.js",
-              "RelativeDocumentMoniker": "src\\pages\\AboutPage.js",
-              "ToolTip": "C:\\zoopin web\\zoopin-site\\src\\pages\\AboutPage.js",
-              "RelativeToolTip": "src\\pages\\AboutPage.js",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACwAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-08-22T12:15:34.745Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "HomePage.js",
-              "DocumentMoniker": "C:\\zoopin web\\zoopin-site\\src\\pages\\HomePage.js",
-              "RelativeDocumentMoniker": "src\\pages\\HomePage.js",
-              "ToolTip": "C:\\zoopin web\\zoopin-site\\src\\pages\\HomePage.js",
-              "RelativeToolTip": "src\\pages\\HomePage.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-08-22T12:15:33.581Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-04T11:26:38.522Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "ArticlesSection.js",
-              "DocumentMoniker": "C:\\zoopin web\\zoopin-site\\src\\components\\ArticlesSection.js",
-              "RelativeDocumentMoniker": "src\\components\\ArticlesSection.js",
-              "ToolTip": "C:\\zoopin web\\zoopin-site\\src\\components\\ArticlesSection.js",
-              "RelativeToolTip": "src\\components\\ArticlesSection.js",
-              "ViewState": "AgIAACwAAAAAAAAAAAAcwEIAAAAeAAAAAAAAAA==",
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\zoopin web - p\\zoopin-site\\public\\index.html",
+              "RelativeDocumentMoniker": "public\\index.html",
+              "ToolTip": "C:\\zoopin web - p\\zoopin-site\\public\\index.html",
+              "RelativeToolTip": "public\\index.html",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-04T09:41:00.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AboutPage.js",
+              "DocumentMoniker": "C:\\zoopin web - p\\zoopin-site\\src\\pages\\AboutPage.js",
+              "RelativeDocumentMoniker": "src\\pages\\AboutPage.js",
+              "ToolTip": "C:\\zoopin web - p\\zoopin-site\\src\\pages\\AboutPage.js",
+              "RelativeToolTip": "src\\pages\\AboutPage.js",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAAAJMAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-08-22T12:08:04.754Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-04T09:19:44.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AboutPage.css",
+              "DocumentMoniker": "C:\\zoopin web - p\\zoopin-site\\src\\pages\\AboutPage.css",
+              "RelativeDocumentMoniker": "src\\pages\\AboutPage.css",
+              "ToolTip": "C:\\zoopin web - p\\zoopin-site\\src\\pages\\AboutPage.css",
+              "RelativeToolTip": "src\\pages\\AboutPage.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-04T09:19:38.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Footer.css",
+              "DocumentMoniker": "C:\\zoopin web - p\\zoopin-site\\src\\components\\Footer.css",
+              "RelativeDocumentMoniker": "src\\components\\Footer.css",
+              "ToolTip": "C:\\zoopin web - p\\zoopin-site\\src\\components\\Footer.css",
+              "RelativeToolTip": "src\\components\\Footer.css",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-03T14:22:08.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Footer.js",
+              "DocumentMoniker": "C:\\zoopin web - p\\zoopin-site\\src\\components\\Footer.js",
+              "RelativeDocumentMoniker": "src\\components\\Footer.js",
+              "ToolTip": "C:\\zoopin web - p\\zoopin-site\\src\\components\\Footer.js",
+              "RelativeToolTip": "src\\components\\Footer.js",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-09-03T14:22:00.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TestimonialsSection.js",
+              "DocumentMoniker": "C:\\zoopin web - p\\zoopin-site\\src\\components\\TestimonialsSection.js",
+              "RelativeDocumentMoniker": "src\\components\\TestimonialsSection.js",
+              "ToolTip": "C:\\zoopin web - p\\zoopin-site\\src\\components\\TestimonialsSection.js",
+              "RelativeToolTip": "src\\components\\TestimonialsSection.js",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAFUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-09-03T14:05:32.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TestimonialsSection.css",
+              "DocumentMoniker": "C:\\zoopin web - p\\zoopin-site\\src\\components\\TestimonialsSection.css",
+              "RelativeDocumentMoniker": "src\\components\\TestimonialsSection.css",
+              "ToolTip": "C:\\zoopin web - p\\zoopin-site\\src\\components\\TestimonialsSection.css",
+              "RelativeToolTip": "src\\components\\TestimonialsSection.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-03T14:05:30.919Z"
             }
           ]
         }

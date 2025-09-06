@@ -42,7 +42,7 @@ export default function InsightsPage() {
   if (loading) {
     return (
       <main className="insights-page">
-        <h1 className="insights-title">Insights</h1>
+        <h1 className="insights-title">مقالات اختصاصی</h1>
         <p className="insights-status">Loading…</p>
       </main>
     );
@@ -51,7 +51,7 @@ export default function InsightsPage() {
   if (error) {
     return (
       <main className="insights-page">
-        <h1 className="insights-title">Insights</h1>
+        <h1 className="insights-title">مقالات اختصاصی</h1>
         <p className="insights-error">{error}</p>
       </main>
     );
@@ -61,8 +61,8 @@ export default function InsightsPage() {
     <main className="insights-page">
       <header className="insights-header">
       <h1 className="insights-title">‌ </h1>
-      <h1 className="insights-title">Insights</h1>
-        <p className="insights-subtitle">Ideas, analyses, and field notes from our work.</p>
+      <h1 className="insights-title">مقالات اختصاصی</h1>
+        <p className="insights-subtitle">تحلیل ها، ایده ها و تجربه های ما</p>
         <div className="insights-filters">
           {categories.map(cat => (
             <button

@@ -36,8 +36,8 @@ const PartnersPage = () => {
       <div className="partners-page">
         <div className="partners-header">
           <span className="partners-eyebrow">‌</span>
-          <h1>Our Partners</h1>
-          <p>Brands we build with—modern, scalable, and obsessed with quality.</p>
+          <h1>شرکای ما</h1>
+        
         </div>
 
         {loading ? (

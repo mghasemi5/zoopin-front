@@ -1,14 +1,19 @@
+html, body {
+  direction: rtl;
+  text-align: right;
+  font-family: Vazir, Tahoma, Arial, sans-serif;
+}
+
 .partner-page {
   background-color: #f4f4f4;
   padding: 20px 20px;
   min-height: 60vh;
-  font-family: sans-serif;
+  font-family: Vazir, Tahoma, Arial, sans-serif;
   /* remove display:flex & justify-content */
 }
 
 /* Mobile-first layout */
 .partner-card2 {
-
   flex-direction: column;
   align-items: center;
   text-align: center;
@@ -18,19 +23,18 @@
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
   margin: 100px auto;
   max-width: 1000px;
-  min-height : 100px;
+  min-height: 100px;
   width: 100%;
   text-align: justify;
-
 }
+
 .partner-page {
   background-color: #f4f4f4;
   padding: 80px 20px;
   min-height: 100vh;
-  font-family: sans-serif;
+  font-family: Vazir, Tahoma, Arial, sans-serif;
   /* remove display:flex & justify-content */
 }
-
 
 .partner-image {
   width: 100%;
@@ -39,8 +43,6 @@
   object-fit: cover;
   margin-bottom: 20px;
 }
-
-
 
 .partner-info h1 {
   font-size: 24px;
@@ -61,7 +63,6 @@
   text-align: justify;
 }
 
-
 .contact-info {
   text-align: center;
   padding: 0 10px;
@@ -81,15 +82,12 @@
 }
 
 /* Responsive (Tablet and up) */
-
-
-
 @media (min-width: 768px) {
   .partner-card2 {
-    flex-direction: row;
+    flex-direction: row-reverse;   /* flipped for RTL */
     display: flex;
     align-items: flex-start;
-    text-align: left;
+    text-align: right;             /* was left */
     box-sizing: content-box;
     height: auto;
   }
@@ -100,10 +98,7 @@
   }
 
   .partner-info {
-    padding-left: 40px;
-    text-align: left;
-
+    padding-right: 40px;           /* was padding-left */
+    text-align: right;             /* was left */
   }
-
-
 }
