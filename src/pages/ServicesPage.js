@@ -52,7 +52,7 @@ export default function ServicesPage() {
         <h1>      ‌‌‌خدمات ما</h1>
         <div className="services-grid">
           {items.map((s) => {
-            const href = `/services/${s.slug}`;
+            const href = `/services/`;
             return (
               <article className="service-card" key={s.id || s.slug}>
                 {s.image && <img className="service-img" src={media(s.image)} alt={s.title} />}

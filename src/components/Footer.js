@@ -31,7 +31,8 @@ export default function Footer() {
         <div className="footer__col">
           <h4>تماس</h4>
           <ul>
-            <li><a href="mailto:contact@zoopin.com">contact@zoopin.co</a></li>
+            <li><a href="mailto:info@zoopin.com">info@zoopin.co</a></li>
+            <li style={{direction: "ltr"}}><a style={{direction: "ltr"}} href="tel:+982128425152">021 28 42 5152</a></li>
             
           </ul>
         </div>
