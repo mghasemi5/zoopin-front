@@ -54,6 +54,7 @@ html, body {
 
 .partners-section .partners-swiper {
   padding: 16px 8px 48px;
+  direction: "ltr";
 }
 
 /* Modern card */

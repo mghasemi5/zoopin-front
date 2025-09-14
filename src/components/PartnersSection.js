@@ -45,7 +45,7 @@ const PartnersSection = () => {
 
   return (
     <section className="partners-section">
-      <div dir="ltr" className="partners-container">
+      <div  className="partners-container">
         <h2 className="section-title">شرکای ما</h2>
       
 
