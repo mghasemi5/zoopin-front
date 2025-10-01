@@ -175,14 +175,19 @@ body {
   display: grid;
   grid-template-columns: 1fr;
   gap: clamp(1rem, 2vw, 1.5rem);
+
 }
 
 .contact-left p {
   margin: .5rem 0;
   font-size: .98rem;
   color: #374151;
+
 }
-.contact-left strong { color: #111827; }
+.contact-left strong {
+color: #111827;
+direction: ltr;
+ }
 
 .socials {
   margin-top: .6rem;

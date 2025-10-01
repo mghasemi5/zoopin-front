@@ -120,17 +120,17 @@ function AboutPage() {
               {about.contact.email && (
                 <p>
                   <strong>ایمیل: </strong>{" "}
-                  <a href={`mailto:${about.contact.email}`}>
+
                     {about.contact.email}
-                  </a>
+
                 </p>
               )}
               {about.contact.phone && (
                 <p>
                   <strong>تلفن: </strong>{" "}
-                  <a href={`tel:${about.contact.phone}`}>
+
                     {about.contact.phone}
-                  </a>
+
                 </p>
               )}
               {about.contact.website && (

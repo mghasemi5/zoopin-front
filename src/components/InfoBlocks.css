@@ -14,7 +14,7 @@
 .info-card {
   background-color: #e5e4e2; /* Light gray */
   border-radius: 16px;
-  padding: 3rem 2rem;
+  padding: 10px 10px 10px 10px;
   width: 360px;
   height: 380px;
   box-shadow: 0 15px 30px rgba(0, 0, 0, 0.15);
@@ -49,6 +49,7 @@
   font-size: 1rem;
   line-height: 1.9;
   text-align: justify;
+
 }
 
 .info-card img {
