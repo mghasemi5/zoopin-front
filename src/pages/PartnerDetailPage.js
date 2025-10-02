@@ -46,10 +46,10 @@ function PartnerDetailPage() {
         <div className="partner-info">
           <h1>{partner.name}</h1>
           <p className="tagline">{partner.tagline}</p>
-          <p className="bio">{partner.bio}</p>
+          <p className="bio" dangerouslySetInnerHTML={{ __html: partner.bio }} />
           <div className="contact-info">
             <h2>اطلاعات تماس</h2>
-            <p><strong>Email:</strong> {partner.email}</p>
+            <div><strong>Email:</strong> {partner.email}</div>
           </div>
         </div>
       </div>
