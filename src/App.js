@@ -42,7 +42,7 @@ function App() {
             <>
               <Slider />
               <InfoBlocks />
-              <ClientsSection />
+
               <PartnersSection />
               <TestimonialsSection />
               <ArticlesSection />
